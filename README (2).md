@@ -42,7 +42,7 @@ To design and create a creative greeting card by integrating **paper-based artwo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## &nbsp;**Circuit diagram**             ![][image1]
+## &nbsp;**Circuit diagram**             ![Circuit diagram](Circuit.jpg) 
 
 &nbsp;
 
